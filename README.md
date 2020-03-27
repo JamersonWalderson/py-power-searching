@@ -1,7 +1,11 @@
-# pyCrawler
-O projeto ainda não tem nome definido mas já funciona e me ajuda nas minhas pesquisas.
+# py-power-searching
+O objetivo deste projeto é servir como um buscador de dados usando técnicas de power searching para melhorar a busca.
 
-# MODO DE USAR:"
-       1 - crie uma pasta vazia onde ficarão os PDF's que serão baixados.
-       2 - Execute o programa.
-       3 - Entre com o conteúdo que deseja procurar e a quantidade de itens que serão baixados.
+Requirements
+------------
+* python >= 2.4
+* PyQt5
+
+Runing
+------------
+Acredito que o programa tenha uma utilização bem intuitiva e que é possível utiliza-lo sem dificuldades, da para escolher entre fazer buscas por arquivos direto no próprio Google ou decidir se deseja fazer a pesquisa pelo Google drive, caso escolha a opção do google drive o código fará uma busca e ira listar os arquivos públicos que estão indexados ao buscador Google.
